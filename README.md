@@ -6,6 +6,7 @@ This is the project for NCKU chatbot.
 
 ## Table of Contents
 - [Development](#development)
+- [Improvement](#improvement)
 - [Resource](#resource)
 <br>
 <br>
@@ -41,6 +42,16 @@ my file ID: file-mt5FrvoTz3IaNIFufRyX2esg
 ```
 
 4. run `gui.py`, after modify the model_name
+<br>
+<br>
+
+## Improvement
+
+1. More prompt-completion pairs
+2. Modify Parameter
+3. Change Model
+
+
 <br>
 <br>
 
