@@ -33,10 +33,10 @@ openai api fine_tunes.follow -i ft-F6SoPx0VkI3QNIkmqNNODk81
 ```
 my file ID: file-mt5FrvoTz3IaNIFufRyX2esg
 
-[2023-05-24 12:09:36] Created fine-tune: ft-F6SoPx0VkI3QNIkmqNNODk81
+[2023-05-24 12:09:36] Created fine-tune: ft-F6XXXXXXXXXXXXXXXXXXX
 [2023-05-24 12:11:12] Fine-tune costs $0.07
 [2023-05-24 12:23:27] Uploaded model: curie:ft-personal-2023-05-24-04-23-27
-[2023-05-24 12:23:28] Uploaded result file: file-N871o6BnxkYsY1zjvjlmji3P
+[2023-05-24 12:23:28] Uploaded result file: file-N871oXXXXXXXXXXXXXX
 [2023-05-24 12:23:28] Fine-tune succeeded
 ```
 
