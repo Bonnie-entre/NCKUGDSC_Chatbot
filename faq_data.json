@@ -1,0 +1,242 @@
+[
+    {
+        "prompt": "1. Do I need to know Chinese to apply?",
+        "completion": "There are PhD programs taught fully in English, you may refer to https://oia.ncku.edu.tw/p/404-1032-230753.php?Lang=en for available English taught programs.\nMost undergraduate courses are taught in Chinese, course materials could be Chinese or English depending on the professor's choice. Therefore, students are expected to have adequate level of Chinese.\nBesides the listed full English taught programs, most classes in postgraduate programs are also taught in Chinese, with some taught in English, therefore, students should have sufficient Chinese language abilities in order to achieve good academic performance."
+    },
+    {
+        "prompt": "2. Are courses taught in English or Chinese?",
+        "completion": "You are suggested to refer to the Program at https://oia.ncku.edu.tw/p/404-1032-230753.php?Lang=en, it is showing the current programs that are available in fall and spring semesters. On the program table, there are four color dots representing the percentage of English-Medium instruction (EMI) courses in the degree progarms."
+    },
+    {
+        "prompt": "3. How and when should I start my application process or admission application?",
+        "completion": "One should begin by reviewing the NCKU's application conditions before applying. Gather all necessary documents prior to start filling the NCKU online application through the application website."
+    },
+    {
+        "prompt": "4. Can I apply for more than one degree-program at NCKU?",
+        "completion": "Yes. One can apply at most two degree-programs at once but in case of two admissions, students only can choose one program."
+    },
+    {
+        "prompt": "5. Is it possible to double major at NCKU?",
+        "completion": "Yes."
+    },
+    {
+        "prompt": "6. Is there any application fee?",
+        "completion": "Each applicant will be charged NT$1,600, and this will cover the postage costs for the acceptance letter.\nEach applicant pay the application fee (NT$1,600) can apply for 2 departments.\nWe will process each application after we receive payment of the application fee.\nThe application fee is non-refundable."
+    },
+    {
+        "prompt": "7. What are the payment options?",
+        "completion": "We accept payments from online credit cards, Taiwan domestic remittance (eg. ATM transfer), overseas T/T transfer, etc. We could not accept payments by cash or checks, please refer to the details via: https://oia.ncku.edu.tw/p/404-1032-232641.php?Lang=en"
+    },
+    {
+        "prompt": "8. Can I transfer to NCKU if I have already studying at other universities in Taiwan?",
+        "completion": "There are two ways, join the transferring examination (very few international students choose to do this), or apply again in the same way as new international students.\n\nJoin the transferring examination (only undergraduate), you can apply for this in May each year, for more information, please go to the website of the General Academic Affairs Division.\nApply again as new international student: you can apply in the same way as a new international student, once accepted, you should start from the first year, but you can transfer credits according to each department/institute's regulations (please to contact the department/institute for the rules and details of transferring credits)."
+    },
+    {
+        "prompt": "9. Can I come to NCKU to study Chinese?",
+        "completion": "If you only want to study Chinese, please apply to our Chinese Langauge Center, the webstie is: https://kclc.ncku.edu.tw/en\nIf you want to study for a degree program in NCKU, we provide free Chinese courses for all degree-seeking international students, for details for the course please see: https://kclc.ncku.edu.tw/en/course/chinese_class"
+    },
+    {
+        "prompt": "10. Are minimum GPA (grade point average), test scores required for NCKU Admission?",
+        "completion": "Each departments has different evaluation and requirements, please refer to the current  Admssion Prospectus for International Students."
+    },
+    {
+        "prompt": "11. Should I mail my application documents to the admission office?",
+        "completion": "It is not necessary to mail the hard copies to the admission office unless you are asked to. However, all sealed recommendation letters should be mailed to the admission office directly the way it was given to you."
+    },
+    {
+        "prompt": "12. After submitting my application, how do I inform the admission staffs of additional information?",
+        "completion": "If you have any additional information after submitting your online application, you can e-mail these documents to the admissions staff or the department you are applying directly. (Email: overseas@ncku.edu.tw)"
+    },
+    {
+        "prompt": "13. Is interview required for NCKU prospective students?",
+        "completion": "Except for some specific departments such as college medicine, no interview is required for NCKU incoming students. Students will be informed about the interviews by the departments they have applied for. The interview will be conducted through audio calls via the Internet."
+    },
+    {
+        "prompt": "14. Who can I contact (e-mail/phone/Fax) if I have prompts about NCKU admission?",
+        "completion": "One can send e-mails and fax anytime but call during the office hours (8:30 am ~ 5:00 pm GMT+8) to the following information given below:\nTEL: +886-6-2085608\nFAX: +886-6-2766430\nEmail: overseas@ncku.edu.tw"
+    },
+    {
+        "prompt": "1. How do students from Hong Kong or Macau apply for NCKU?",
+        "completion": "Applicants who hold Hong Kong or Macau citizenships are not eligible for applying for NCKU as international students.\nHong Kong and Macau students' admission to universities in Taiwan must abide by the \"香港澳門居民來臺就學辦法\" (Regulations for Hong Kong and Macau Citizens to Apply to Study in Taiwan) by the Ministry of Education.\nStudents must take the 'Overseas Joint College Entrance Exam'. The exam will be held in May every year. For details please contact the 'University Entrance Committee for Overseas Chinese Student'：http://www.overseas.ncnu.edu.tw/"
+    },
+    {
+        "prompt": "2. I hold both USA passport and ROC (Taiwan) nationality. Can I apply for NCKU as an international student using the USA passport?",
+        "completion": "The applicant who has a nationality status from ROC (Taiwan) at the time of his/her birth should not hold a household registration must state this on your college application and declaration. Any violation will result in immediate cancellation of the applicant’s admission. You could refer to this link for details: https://oia.ncku.edu.tw/p/404-1032-232639.php?Lang=en, and Regulations Regarding International Students Undertaking Studies in Taiwan regulated by MOE. And in case of any discrepancy, the MOE regulations text shall be prevailed."
+    },
+    {
+        "prompt": "3. I am a student from a foreign country, and my father is originally from Taiwan, can I apply to NCKU as an international student?",
+        "completion": "If you initially fulfill the following statuses, you are eligible to apply as a foreign student (International Student). Details are in accordance with the Regulations Regarding International Students Undertaking Studies in Taiwan regulated by MOE. And in case of any discrepancy, the MOE regulations text shall be prevailed.\n\nThe applicant has a foreign nationality and do not have ROC (Taiwan) nationality. \nThe applicant has dual nationalities and one of them is ROC (Taiwan), but he/she has never registered for household in Taiwan. At the same time,he/she has been constantly staying in overseas for consecutive 6 years (8 years to medical, dental, and Chinese medicine applicants) immediately prior to this application.“Constantly staying” indicates that the applicant has not stayed in Taiwan for over 120 days each year.\nThe applicant had the ROC (Taiwan) nationality but it has been more than eight years since the date on which his/her ROC (Taiwan) nationality was revoked by approval of the Ministry of the Interior. The lapse time is counted up till August 1 in the year he/she is seeking admission. \nThe applicant has never registered to the universities/colleges in Taiwan as an overseas Chinese student, or given a placement in the current academic year by the University Entrance Committee for Overseas Chinese Students in accordance with the Regulations Regarding Study and Counseling Assistance for Overseas Chinese Students in Taiwan.\nThe applicant has not been expelled by a university or college or with drop-out records due to failure in conduct grades, academic grades, or being indicted guilty by the criminal law in ROC (Taiwan).\nThe applicant has never obtained a high school degree as a foreign student in ROC (Taiwan). However, this restriction does not apply to foreign students who graduate from a school for foreign residents located in  ROC (Taiwan), or from a bilingual division (program) affiliated with a senior high school in ROC (Taiwan).\n\nTherefore, if you have any prompts about the other status, Overseas Chinese Student, please direct all the prompts to Overseas Compatriot Educational Committee or University Entrance Committee for Overseas Chinese Student."
+    },
+    {
+        "prompt": "4. What's the difference between Overseas Chinese Students and International Students?",
+        "completion": "Please see the reference information from the Ministry of Education:\n(1) Please link to https://www.roc-taiwan.org/my/post/217.html\n(2) Please link to https://edu.law.moe.gov.tw/LawContent.aspx?id=FL022010"
+    },
+    {
+        "prompt": "5. Can foreign nationals who have degrees from Mainland China apply to NCKU as international students?",
+        "completion": "Those who have high school diplomas from Mainland China: Those who are qualified as 'international students' According to article two of the \"Regulations Regarding International Students Undertaking Studies in Taiwan\", which is also NCKU's regulation about eligibility as 'international students' (see Eligibility section), and hold high school diplomas from Mainland China, can apply to authenticate their high school diplomas from the MOE office in the area where the university is (for NCKU, it is the central office of MOE), according to the \"Regulations Regarding Authentication of Mainland Chinese Diplomas\". They can apply to NCKU as international students after this is done.\nThose who hold college diploma, university degrees or graduate degrees from Mainland China: Currently, there is no regulations about authentication of these diplomas or degrees from Mainland China, and they cannot be considered."
+    },
+    {
+        "prompt": "6. I study at a university in China. Can I apply for NCKU admission?",
+        "completion": "Please refer to the regulations of the diploma recognition at universities/institutions in China (大陸地區學歷採認辦法-第八條) https://law.moj.gov.tw/LawClass/LawAll.aspx?PCode=H0010005 (Article 8 )\nMOE list of universities in China, please refer to https://depart.moe.edu.tw/ed2200/News_Content.aspx?n=5E9ABCBC24AC1122&s=2690D12DF5118DE0 \nDiploma, transcript certification procedure, please refer to https://emhd.nchu.edu.tw/Home/CertProcess"
+    },
+    {
+        "prompt": "1. How will my admission application be assessed?",
+        "completion": "All admission applications are assessed by each department committee relatively and by school administration prior to select applicants."
+    },
+    {
+        "prompt": "2. If my academic performance was not good enough, could I still apply for the NCKU?",
+        "completion": "Absolutely, You could apply for our school. However, the department will evaluate by your application documents,  your  transcript  may influence your opportunity for enrolling than other people. We suggest you might write some unique experiences in your autobiography or study plan."
+    },
+    {
+        "prompt": "3. In addition to academic qualifications, does NCKU consider extracurricular activities in admission process?",
+        "completion": "In addition to academic qualifications, NCKU is interested in talented students valued all interests one could bring to our university outside of the classroom and we also take interest particularly in noticing student responsibility, leadership and extraordinary accomplishment. There are no preferences of activity over others but we appreciate student commitment to his/her duties."
+    },
+    {
+        "prompt": "4. How can I let NCKU admission staff know about a special talent?",
+        "completion": "Any special talented students are suggested to take early actions by sending additional documents prior the admission deadline and the admission decision. Depends on your talents, we will have the related faculties or departments review your document submission and advise the admission staff regarding your abilities."
+    },
+    {
+        "prompt": "5. What could possible affect my chance of admission at NCKU? (Field of study?)",
+        "completion": "There are actually some factors that may affect a student's chance of admission at NCKU:\nFalse information about the application\nFalsified documents\nFailure to provide the required documents\nFailure to confirm your admission acceptance by the deadline\nN.B: One field of study does not affect the chance of admission at NCKU."
+    },
+    {
+        "prompt": "1. How do I prepare the highest degree diploma since I haven’t graduated yet?",
+        "completion": "For those expecting to graduate this year and yet to obtain their diplomas, submit a copy of the student ID card showing their year of study."
+    },
+    {
+        "prompt": "2. If there is no GPA on my transcript, how do I fill up my academic level?",
+        "completion": "You could write down the average scores or academic level of your transcripts, and write down the total score of the average scores or academic level in next blank."
+    },
+    {
+        "prompt": "3. My official documents are written in neither Chinese nor English (official diploma, original transcripts and financial statement). Can I translate by myself and upload both the originals (in other language) and my translation to the application? Or do I have to find an official translator?",
+        "completion": "You can translate the official documents including the official diploma, original transcripts, and financial statement by yourself. However, please have them (both the originals and the translations) certified by the Taiwanese Embassy/Representative Office in your country."
+    },
+    {
+        "prompt": "4. Is there any guideline offered of autobiography and study plan?",
+        "completion": "The autobiography is just similar as CV or personal statement. As for study plan, You can briefly describe your educational background and future research and motivations in your study plan. And the short-/ mid-/ long- term goals if you study in the department you intent to apply at NCKU.  You may search on internet for examples of study plan and English autobiography. In general, at least one A4 page for each item."
+    },
+    {
+        "prompt": "5. I don't have a financial statement yet, may I apply and provide it later?",
+        "completion": "It is required to have a financial statement when applicantion. A financial statement could be issued by a bank or financial institution to verify that the applicant has at least NT$150,000 available for the applicant’s entire stay during the time of the study. If you already received scholarships, you could upload the scholarship certificate as proof. Or, you may also provide a sponsor's financial statement and along with the declaration from your guarantor in order to proceed."
+    },
+    {
+        "prompt": "6. I am awarded a Taiwan Scholarship. I would like to know if providing a letter from Ministry of Foreign Affairs would be sufficient as a financial statement?",
+        "completion": "Yes. Please submit a copy of your \"Taiwan Scholarship Certificate\" in your application."
+    },
+    {
+        "prompt": "7. How do I prepare the financial statement when my major financial support will actually be the scholarship I am applying for the same time?",
+        "completion": "If you major financial support is the scholarship, and you can't submit other financial statement, then you can decide not to submit the financial support. However, if the admission is influenced by not submitting the financial support, it's applicant's own responsibility."
+    },
+    {
+        "prompt": "8. If the recommendation letters are sealed, could I directly send them to the office?",
+        "completion": "If the recommendation letters are sealed, you may mail them to our office directly. However, we encourage you to email us diretcly (overseas@ncku.edu.tw) before the application deadline or upload the letter through the application system."
+    },
+    {
+        "prompt": "1. Do I need to provide English /Chinese proficiency?",
+        "completion": "Detailed information regarding additional admission requirements of different departments/institutes can be found from the Admission Prospectus for International Students at\nhttps://oia.ncku.edu.tw/p/404-1032-229816.php?Lang=en\nIt varies from program to program. Even if the program you intend to apply doesn't require proof of English proficiency, we still recommend you attach it.\nYou could also attach your Chinese proficiency test report even if it is not required."
+    },
+    {
+        "prompt": "2. What are the requirements for the TOEFL/ IELTS to be waived?",
+        "completion": "In order to have your English proficiency tests (TOEFL/IELTS) waived, one should prior to attend NCKU be from a English speaking countries such as: USA, Australia, New Zealand, South Africa and so on and also have studied in English."
+    },
+    {
+        "prompt": "3. Does NCKU have a preference over the English proficiency test in the admission process?",
+        "completion": "No. NCKU does not prefer a particular proficiency test in the admission process but it is required for all non-English speakers to provide an English proficiency prior graduation."
+    },
+    {
+        "prompt": "4. What are the requirements for the Chinese proficiency certificate?",
+        "completion": "The requirements differ from departments, please refer to the Admission Prospectus for International Students (https://oia.ncku.edu.tw/p/404-1032-229816.php?Lang=zh-tw) to prepare the required documents for your chosen departments."
+    },
+    {
+        "prompt": "5. It’s too rush for me to take TOEFL score/Chinese proficiency.\nAm I still able to apply to NCKU?",
+        "completion": "If you could not submit your TOEFL score/Chinese proficiency on time, we highly recommend that you could submit documents or paper works to demonstrate that you have taken some English courses or credits. Then, the department can realize and easily evaluate."
+    },
+    {
+        "prompt": "6. ETS code number of OIA?",
+        "completion": "Applicant TOEFL score recipients, please fill in this code 2450 (National Cheng Kung University- Office of International Affairs. ), then the ETS will directly send your transcripts to us."
+    },
+    {
+        "prompt": "1. For international students who have previously graduated from another university in Taiwan, do they have to get their degree certificates authenticated?",
+        "completion": "No, if the degree certificate is from Taiwan, then it doesn't have to be authenticated. The students just have to submit a copy when applying."
+    },
+    {
+        "prompt": "2. Can I use my unauthenticated transcripts to apply to NCKU?",
+        "completion": "Yes. One can use their unauthenticated transcripts to apply at NCKU admission but if admitted to NCKU, the verified and authenticated transcripts by R.O.C should be e-mail / mail to the admission office prior the first semester enrollment."
+    },
+    {
+        "prompt": "3. I am Malaysian but my degree is from Singapore, where then should I get my degree certificate authenticated?",
+        "completion": "Your original documents should be authenticated by the Taiwanese Embassy or Representative Office in the country/region where it was issued/where the school is located. Therefore, if your case, your degree certificate should be authenticated by the Taipei Representative Office in Singapore."
+    },
+    {
+        "prompt": "4. If my financial statement is provided by a bank in Taiwan, does it still need to be authenticated?",
+        "completion": "No, if you have a financial statement from a Taiwanese bank or a branch of a foreign bank located in Taiwan, it doesn't have to be authenticated."
+    },
+    {
+        "prompt": "1. Is financial aid available at NCKU?",
+        "completion": "Yes. NCKU distinguished international student scholarship and international cooperation and development fund are being offered to international students intend to attend NCKU. All applicants for admission are being considered regardless their backgrounds, colors, races, religions and financial circumstances. Any eligible students are encouraged to apply in interested. Please refer to our website for more information."
+    },
+    {
+        "prompt": "2. What is the eligibility/ ineligibility of international students for NCKU financial support?",
+        "completion": "Every international student with no distinction can apply for NCKU financial support except for those who have already beneficiated other scholarship recipients from any entities of Taiwan (R.O.C). For more information about how to apply for any of NCKU financial supports, please refer to the NCKU admission website."
+    },
+    {
+        "prompt": "3. How and when do I apply for NCKU available financial support?",
+        "completion": "One should apply by the designated date of the year according to NCKU regulations. To learn more, review the information and instructions related to the program offered in order to apply for NCKU scholarships."
+    },
+    {
+        "prompt": "4. How to apply NCKU Distinguished International Student Scholarship?",
+        "completion": "Applicants just finish the online application, then the application of NCKU Scholarship’s procedure will be completed.\nThe University International Student Admissions Committee will review the application to evaluate the scholarship opportunity for the first academic year. Applicants do not need to submit any additional application for this scholarship, and the award information will be mailed individually along with the admission package."
+    },
+    {
+        "prompt": "5. I want to apply for the Taiwan Scholarship, where should I apply?\n\nIt is not necessary to fill up other application form!",
+        "completion": "It is not necessary to fill up other application form!"
+    },
+    {
+        "prompt": "6. How to apply International Cooperation and Development Fund?",
+        "completion": "How to apply: All the materials must be forwarded by the ROC (Taiwan) Embassy Representative Office or Taiwan Technical Mission to the Office of International Affairs, National Cheng Kung University. The applicants must have the application documents forwarded by the ROC (Taiwan) Embassy Representative Office or Taiwan Technical Mission to NCKU and must complete the NCKU online application process as well.\nFurther information in regard to ICDF can be found at:  https://www.icdf.org.tw/wSite/mp?mp=2."
+    },
+    {
+        "prompt": "7. I am applying for Taiwan Scholarship, but I am also still in the process of applying to NCKU, the deadline for both are at the end of March. What should I do?",
+        "completion": "When applying for Taiwan Scholarship, you should provide document that shows you are applying for a degree program in a university in Taiwan, so you should send a copy of your application form for NCKU. We suggest that you put a note about the date of announcement of admission roaster, and when you know the result of the application, contact the office again. You can see more details from \"Study in Taiwan\" website."
+    },
+    {
+        "prompt": "1. When exactly I will be notified about the NCKU admission board decision about my application?",
+        "completion": "All admitted students will learn the admission acceptance from the online application system. All admitted candidates will receive the hard copy of their acceptance letter within 1 month."
+    },
+    {
+        "prompt": "2. May an admitted student at NCKU hold off his/her admission to another year?",
+        "completion": "Yes. After receiving your acceptance letter from NCKU, you should immediately let the admission office know that you want to defer your admission and from there we will tell you about the procedures."
+    },
+    {
+        "prompt": "3. What does that mean \"waiting list\"?",
+        "completion": "NCKU receives tremendous admission applications which exceeds the maximum number each semester. Admission committees in each dept./inst. would do the best to review applications and make the final list for each semester. Yet, when making the admission decision after the result releases, there may be some seats available, and/or some admitted applicants may change their minds and decide not to accept the offer afterwards, for this purpose, applicants who are on the waiting list may be able to fill in the vacancies in accordance with the sequence."
+    },
+    {
+        "prompt": "4. I am not satisfied with the admission decision, may I appeal the decision?",
+        "completion": "The NCKU admission staffs evaluate all candidates under the same principles, since most of our applicants are highly qualified; it is always a hard decision to make. With fairness and equality, the admission board must select the high accomplished applicants. The admission cannot reconsider, offer individual explanations and explain why one is refused."
+    },
+    {
+        "prompt": "1. What should I do if I forget my NCKU admission login information?",
+        "completion": "During your registration to NCKU admission panel, you are required to provide an e-mail address and a password. If you forget your password, you can click on **forgot my password** and follow the instructions to regain or reset your password. If you still can’t login, please contact the NCKU admission staff for help."
+    },
+    {
+        "prompt": "2. Can I still update my online application after submitting it to the NCKU admission office?",
+        "completion": "No. Once your click on submit your application, you are no longer able to make any changes to it. However, before the admission deadline, you still can provide new additional documents to the admission office that you think may increase your chances of admission."
+    },
+    {
+        "prompt": "3. When will I have to pay the tuition fee? Do I have to pay for one semester or two semesters at a time?",
+        "completion": "Students pay their tuition fee at the beginning of every semester, we will give you all the details in your admission package. Students pay for a semester at a time."
+    },
+    {
+        "prompt": "4. What is the requirement of graduation?",
+        "completion": "For undergraduate and postgraduate courses, you can see the departmental regulations, however, if the department/institute has announced different requirements, you should refer to the department/institute's information as the correct one. Postgraduate students have to both complete the required credits and also complete the dissertation before they can graduate."
+    },
+    {
+        "prompt": "5. Notifications during online application?",
+        "completion": "Uploaded file name should not contain special characters.  (i.e. space, symbols, etc.) \n Please make sure the display of PDF file which is not upside down.\n Please do not set a protected password of the uploaded file.\n One applicant only could use one email account to apply, and the maximum department is two .\n Please do not use  others’ email to apply."
+    },
+    {
+        "prompt": "6. How do I change the Chinese name on the acceptance letter?",
+        "completion": "If the admission letter is printed and mailed to you, changing the Chinese name will be available when registration upon your arrival to the campus. We will hand write the name on your admission letter for you to bring to the Registrar Division to proceed and complete your registration.\nUsually, after the admission result is announced, we will email and notify you to confirm your admission status and also provide us with a Chinese name if you have one, or we will give you a Chinese name."
+    }
+]
